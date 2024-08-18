@@ -61,3 +61,8 @@ Make sure you have a redis server running on localhost:6379
 ```sh
  docker run -p 6379:6379 -it redis:latest 
 ```
+
+## Future Work
+
+- Implement a microservice architecture using a framework like Spring Boot.
+- Add Observability using Micrometer and Prometheus.
